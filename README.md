@@ -9,3 +9,4 @@
 
 [4. Arrays and Slices](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/arrays_and_slices)
 
+[5. Structs, Methods, and Interfaces]()

@@ -7,3 +7,5 @@
 
 [3. Iteration](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/iteration)
 
+[4. Arrays and Slices](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/arrays_and_slices)
+

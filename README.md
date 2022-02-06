@@ -9,6 +9,6 @@
 
 [4. Arrays and Slices](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/arrays_and_slices)
 
-[5. Structs, Methods, and Interfaces]()
+[5. Structs, Methods, and Interfaces](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/structs_methods_and_interfaces)
 
-[6. Pointers and Errors]()
+[6. Pointers and Errors](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/pointers_and_errors)

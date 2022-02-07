@@ -12,3 +12,5 @@
 [5. Structs, Methods, and Interfaces](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/structs_methods_and_interfaces)
 
 [6. Pointers and Errors](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/pointers_and_errors)
+
+[7. Maps](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/maps)

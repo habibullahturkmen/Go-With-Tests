@@ -14,3 +14,5 @@
 [6. Pointers and Errors](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/pointers_and_errors)
 
 [7. Maps](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/maps)
+
+[8. Dependency Injection](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/dependency_injection)

@@ -20,6 +20,4 @@
 
 [9. Mocking](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/mocking)
 
-### Build An Application
-
-[1. HTTP Server](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/http_server)
+### [Build An Application](https://github.com/habibullahturkmen/Go-With-Tests/tree/main/web_application)
